@@ -1,0 +1,401 @@
+Season;Team;Attack;Midfield;Defense;Overall
+PL_04_05;Arsenal;92;91;89;90
+PL_04_05;Manchester United;91;90;85;88
+PL_04_05;Chelsea;87;88;86;87
+PL_04_05;Liverpool;88;86;82;84
+PL_04_05;Newcastle United;85;83;76;81
+PL_04_05;Tottenham Hotspur;81;76;75;77
+PL_04_05;Manchester City;81;76;74;77
+PL_04_05;Aston Villa;79;74;77;77
+PL_04_05;Everton;72;75;74;75
+PL_04_05;Crystal Palace;69;68;72;69
+PL_04_05;Norwich City;74;72;73;73
+PL_04_05;West Bromwich;78;72;71;73
+PL_04_05;Portsmouth;78;73;75;75
+PL_04_05;Southampton;80;72;73;75
+PL_04_05;Blackburn Rovers;72;78;75;76
+PL_04_05;Bolton Wanderers;74;79;73;76
+PL_04_05;Fulham;78;76;77;78
+PL_04_05;Birmingham City;80;76;77;77
+PL_04_05;Charlton Athletic;76;79;75;77
+PL_04_05;Middlesbrough;82;79;79;80
+PL_05_06;Arsenal;90;84;86;86
+PL_05_06;Manchester United;92;85;84;86
+PL_05_06;Chelsea;87;88;85;87
+PL_05_06;Liverpool;90;87;81;85
+PL_05_06;Newcastle United;86;80;76;80
+PL_05_06;Tottenham Hotspur;83;79;76;79
+PL_05_06;Manchester City;80;77;78;78
+PL_05_06;Aston Villa;84;75;77;78
+PL_05_06;Everton;80;80;80;80
+PL_05_06;Sunderland;72;66;65;68
+PL_05_06;Middlesbrough;83;79;79;80
+PL_05_06;Birmingham City;76;76;75;76
+PL_05_06;Bolton Wanderers;79;77;70;75
+PL_05_06;Fulham;73;78;74;75
+PL_05_06;Blackburn Rovers;78;72;73;74
+PL_05_06;Portsmouth;76;71;75;74
+PL_05_06;West Bromwich;74;73;71;73
+PL_05_06;Charlton Athletic;70;77;73;73
+PL_05_06;West Ham United;70;73;71;73
+PL_05_06;Wigan Athletic;75;68;72;70
+PL_06_07;Arsenal;84;82;81;82
+PL_06_07;Manchester United;88;84;82;82
+PL_06_07;Chelsea;86;86;83;84
+PL_06_07;Liverpool;82;83;81;81
+PL_06_07;Newcastle United;83;79;74;79
+PL_06_07;Tottenham Hotspur;83;78;80;79
+PL_06_07;Manchester City;79;76;75;77
+PL_06_07;Aston Villa;79;74;73;75
+PL_06_07;Everton;80;77;76;77
+PL_06_07;Reading FC;73;75;66;71
+PL_06_07;Middlesbrough;81;78;74;76
+PL_06_07;Watford;71;70;69;68
+PL_06_07;Bolton Wanderers;79;76;75;76
+PL_06_07;Fulham;78;76;76;75
+PL_06_07;Blackburn Rovers;79;78;76;77
+PL_06_07;West Ham United;80;78;76;76
+PL_06_07;Charlton Athletic;80;73;75;75
+PL_06_07;Portsmouth;76;76;75;75
+PL_06_07;Wigan Athletic;76;70;73;74
+PL_06_07;Sheffield United;79;70;71;72
+PL_07_08;Arsenal;84;83;81;80
+PL_07_08;Manchester United;89;86;83;83
+PL_07_08;Chelsea;87;84;83;83
+PL_07_08;Liverpool;85;83;82;81
+PL_07_08;Newcastle United;82;76;76;77
+PL_07_08;Tottenham Hotspur;84;80;79;78
+PL_07_08;Manchester City;78;75;76;75
+PL_07_08;Aston Villa;76;80;72;75
+PL_07_08;Everton;79;80;79;76
+PL_07_08;Reading FC;79;74;74;74
+PL_07_08;Middlesbrough;79;78;76;75
+PL_07_08;Derby Country;74;67;68;69
+PL_07_08;Bolton Wanderers;76;76;75;75
+PL_07_08;Fulham;76;76;73;74
+PL_07_08;Blackburn Rovers;82;79;76;76
+PL_07_08;West Ham United;77;79;76;76
+PL_07_08;Birmingham City;77;73;72;72
+PL_07_08;Portsmouth;79;77;77;76
+PL_07_08;Wigan Athletic;73;73;72;72
+PL_07_08;Sunderland;72;72;70;71
+PL_08_09;Arsenal;85;83;83;81
+PL_08_09;Manchester United;86;85;84;84
+PL_08_09;Chelsea;87;85;84;84
+PL_08_09;Liverpool;85;83;80;81
+PL_08_09;Newcastle United;81;76;76;76
+PL_08_09;Tottenham Hotspur;80;80;79;79
+PL_08_09;Manchester City;82;79;78;79
+PL_08_09;Aston Villa;81;81;77;78
+PL_08_09;Everton;82;75;78;78
+PL_08_09;Stoke City;75;68;67;70
+PL_08_09;Middlesbrough;80;75;73;74
+PL_08_09;West Bromwich;68;71;69;71
+PL_08_09;Bolton Wanderers;75;75;72;74
+PL_08_09;Fulham;80;74;72;74
+PL_08_09;Hull City;70;68;68;71
+PL_08_09;West Ham United;76;76;76;76
+PL_08_09;Wigan Athletic;75;74;71;73
+PL_08_09;Portsmouth;78;79;76;76
+PL_08_09;Blackburn Rovers;78;76;76;76
+PL_08_09;Sunderland;78;74;72;75
+PL_09_10;Arsenal;85;82;82;81
+PL_09_10;Manchester United;86;81;84;82
+PL_09_10;Chelsea;85;84;84;83
+PL_09_10;Liverpool;88;82;81;82
+PL_09_10;Birmingham City;73;75;71;74
+PL_09_10;Tottenham Hotspur;81;78;78;79
+PL_09_10;Manchester City;84;80;80;81
+PL_09_10;Aston Villa;82;79;76;79
+PL_09_10;Everton;80;77;79;79
+PL_09_10;Stoke City;73;75;71;74
+PL_09_10;Burnley;75;72;70;72
+PL_09_10;Wolverhampton Wanderers;75;72;69;72
+PL_09_10;Bolton Wanderers;77;75;73;75
+PL_09_10;Fulham;76;76;77;76
+PL_09_10;Hull City;70;72;73;73
+PL_09_10;West Ham United;76;76;75;76
+PL_09_10;Wigan Athletic;74;74;74;74
+PL_09_10;Portsmouth;75;74;74;75
+PL_09_10;Blackburn Rovers;75;75;75;75
+PL_09_10;Sunderland;78;77;74;75
+PL_10_11;Arsenal;84;84;80;81
+PL_10_11;Manchester United;85;82;82;82
+PL_10_11;Chelsea;85;84;83;83
+PL_10_11;Liverpool;83;81;81;80
+PL_10_11;Birmingham City;77;77;76;76
+PL_10_11;Tottenham Hotspur;80;81;79;80
+PL_10_11;Manchester City;84;81;80;82
+PL_10_11;Aston Villa;78;80;78;78
+PL_10_11;Everton;80;79;78;78
+PL_10_11;Stoke City;76;73;75;74
+PL_10_11;Newcastle United;75;73;71;74
+PL_10_11;Wolverhampton Wanderers;75;73;71;74
+PL_10_11;Bolton Wanderers;76;76;75;75
+PL_10_11;Fulham;79;76;77;77
+PL_10_11;West Bromwich;74;68;70;73
+PL_10_11;West Ham United;74;76;74;75
+PL_10_11;Wigan Athletic;71;74;72;73
+PL_10_11;Blackpool;70;70;69;69
+PL_10_11;Blackburn Rovers;75;75;75;75
+PL_10_11;Sunderland;77;74;75;75
+PL_11_12;Arsenal;84;80;81;81
+PL_11_12;Manchester United;84;83;80;82
+PL_11_12;Chelsea;84;81;82;82
+PL_11_12;Liverpool;81;79;80;80
+PL_11_12;Queens Park Rangers;79;76;75;75
+PL_11_12;Tottenham Hotspur;82;84;79;81
+PL_11_12;Manchester City;83;85;81;83
+PL_11_12;Aston Villa;76;75;75;76
+PL_11_12;Everton;69;76;77;76
+PL_11_12;Stoke City;76;75;76;76
+PL_11_12;Newcastle United;81;78;76;77
+PL_11_12;Wolverhampton Wanderers;77;73;73;74
+PL_11_12;Bolton Wanderers;72;74;72;74
+PL_11_12;Fulham;80;76;74;76
+PL_11_12;West Bromwich;76;73;72;73
+PL_11_12;Swansea City;74;73;71;73
+PL_11_12;Wigan Athletic;71;71;73;72
+PL_11_12;Norwich City;74;71;69;71
+PL_11_12;Blackburn Rovers;74;75;73;74
+PL_11_12;Sunderland;78;75;74;75
+PL_12_13;Arsenal;80;79;80;80
+PL_12_13;Manchester United;86;81;82;82
+PL_12_13;Chelsea;82;80;81;81
+PL_12_13;Liverpool;76;80;79;79
+PL_12_13;Queens Park Rangers;77;73;73;75
+PL_12_13;Tottenham Hotspur;82;78;79;80
+PL_12_13;Manchester City;85;83;80;82
+PL_12_13;Aston Villa;74;72;71;75
+PL_12_13;Everton;74;76;77;76
+PL_12_13;Stoke City;74;74;75;75
+PL_12_13;Newcastle United;81;77;77;77
+PL_12_13;West Ham United;75;74;72;74
+PL_12_13;Southampton;73;74;71;73
+PL_12_13;Fulham;78;75;75;77
+PL_12_13;West Bromwich;74;74;71;74
+PL_12_13;Swansea City;74;73;73;74
+PL_12_13;Wigan Athletic;74;72;72;74
+PL_12_13;Norwich City;72;73;73;73
+PL_12_13;Reading FC;72;69;71;71
+PL_12_13;Sunderland;75;73;74;75
+PL_13_14;Arsenal;79;81;80;80
+PL_13_14;Manchester United;85;79;80;82
+PL_13_14;Chelsea;81;82;81;82
+PL_13_14;Liverpool;76;79;78;80
+PL_13_14;Crystal Palace;71;72;71;72
+PL_13_14;Tottenham Hotspur;77;80;78;80
+PL_13_14;Manchester City;84;83;81;82
+PL_13_14;Aston Villa;72;71;74;74
+PL_13_14;Everton;78;78;78;78
+PL_13_14;Stoke City;76;73;73;74
+PL_13_14;Newcastle United;78;75;76;76
+PL_13_14;West Ham United;76;74;72;74
+PL_13_14;Southampton;76;76;73;75
+PL_13_14;Fulham;71;74;72;75
+PL_13_14;West Bromwich;70;74;72;74
+PL_13_14;Swansea City;79;74;75;76
+PL_13_14;Cardiff City;72;70;73;72
+PL_13_14;Norwich City;74;74;74;74
+PL_13_14;Hull City;72;71;71;72
+PL_13_14;Sunderland;74;73;73;74
+PL_14_15;Arsenal;80;80;77;80
+PL_14_15;Manchester United;85;80;75;81
+PL_14_15;Chelsea;82;82;81;83
+PL_14_15;Liverpool;79;78;75;79
+PL_14_15;Crystal Palace;73;73;73;73
+PL_14_15;Tottenham Hotspur;78;77;77;78
+PL_14_15;Manchester City;83;82;81;82
+PL_14_15;Aston Villa;72;74;74;75
+PL_14_15;Everton;78;78;78;78
+PL_14_15;Stoke City;76;75;74;76
+PL_14_15;Newcastle United;74;75;74;75
+PL_14_15;West Ham United;75;74;72;75
+PL_14_15;Southampton;77;75;76;76
+PL_14_15;Leicester City;71;72;68;72
+PL_14_15;West Bromwich;74;74;71;74
+PL_14_15;Swansea City;77;74;74;75
+PL_14_15;Queens Park Rangers;74;74;71;75
+PL_14_15;Burnley;71;70;71;70
+PL_14_15;Hull City;75;73;70;73
+PL_14_15;Sunderland;76;73;72;74
+PL_15_16;Arsenal;82;79;80;82
+PL_15_16;Manchester United;69;80;77;81
+PL_15_16;Chelsea;81;82;82;83
+PL_15_16;Liverpool;81;79;79;79
+PL_15_16;Crystal Palace;75;76;75;76
+PL_15_16;Tottenham Hotspur;82;78;79;79
+PL_15_16;Manchester City;84;82;81;82
+PL_15_16;Aston Villa;74;74;74;75
+PL_15_16;Everton;78;78;80;78
+PL_15_16;Stoke City;76;78;76;77
+PL_15_16;Newcastle United;77;77;75;77
+PL_15_16;West Ham United;76;76;74;77
+PL_15_16;Southampton;76;76;76;77
+PL_15_16;Leicester City;76;77;75;76
+PL_15_16;West Bromwich;76;73;73;75
+PL_15_16;Swansea City;77;76;76;76
+PL_15_16;Watford;77;74;74;75
+PL_15_16;Norwich City;78;74;73;74
+PL_15_16;Bournemouth;72;74;72;73
+PL_15_16;Sunderland;77;74;74;75
+PL_16_17;Arsenal;81;83;82;83
+PL_16_17;Manchester United;84;84;82;83
+PL_16_17;Chelsea;86;84;81;83
+PL_16_17;Liverpool;82;81;81;81
+PL_16_17;Crystal Palace;80;77;76;77
+PL_16_17;Tottenham Hotspur;85;81;81;81
+PL_16_17;Manchester City;83;85;81;83
+PL_16_17;Hull City;76;74;75;75
+PL_16_17;Everton;85;78;79;80
+PL_16_17;Stoke City;77;78;77;78
+PL_16_17;Burnley;74;74;76;74
+PL_16_17;West Ham United;79;77;77;78
+PL_16_17;Southampton;78;76;77;78
+PL_16_17;Leicester City;79;78;76;78
+PL_16_17;West Bromwich;81;76;74;75
+PL_16_17;Swansea City;78;76;75;77
+PL_16_17;Watford;78;78;76;77
+PL_16_17;Middlesbrough;76;74;74;75
+PL_16_17;Bournemouth;74;75;74;74
+PL_16_17;Sunderland;81;76;73;76
+PL_17_18;Arsenal;84;80;81;82
+PL_17_18;Manchester United;85;83;81;83
+PL_17_18;Chelsea;84;86;82;83
+PL_17_18;Liverpool;85;81;80;81
+PL_17_18;Crystal Palace;79;76;76;76
+PL_17_18;Tottenham Hotspur;85;83;82;83
+PL_17_18;Manchester City;85;87;83;84
+PL_17_18;Newcastle United;76;75;76;75
+PL_17_18;Everton;77;80;79;79
+PL_17_18;Stoke City;75;76;76;76
+PL_17_18;Burnley;76;77;78;77
+PL_17_18;West Ham United;79;76;74;77
+PL_17_18;Southampton;76;77;75;76
+PL_17_18;Leicester City;79;79;76;78
+PL_17_18;West Bromwich;79;75;77;76
+PL_17_18;Swansea City;76;75;74;75
+PL_17_18;Watford;78;77;75;77
+PL_17_18;Huddersfield Town;75;73;74;74
+PL_17_18;Bournemouth;76;75;75;76
+PL_17_18;Brighton & Hove Albion;74;76;74;75
+PL_18_19;Arsenal;82;83;80;82
+PL_18_19;Manchester United;83;83;80;82
+PL_18_19;Chelsea;85;83;82;83
+PL_18_19;Liverpool;86;82;82;83
+PL_18_19;Crystal Palace;79;77;76;77
+PL_18_19;Tottenham Hotspur;86;82;83;83
+PL_18_19;Manchester City;86;88;82;85
+PL_18_19;Newcastle United;75;77;76;76
+PL_18_19;Everton;77;80;79;79
+PL_18_19;Wolverhampton Wanderers;75;80;76;77
+PL_18_19;Burnley;77;75;77;77
+PL_18_19;West Ham United;78;78;77;78
+PL_18_19;Southampton;75;77;74;76
+PL_18_19;Leicester City;78;76;79;78
+PL_18_19;Fulham;78;76;73;75
+PL_18_19;Cardiff City;73;73;72;73
+PL_18_19;Watford;78;78;77;77
+PL_18_19;Huddersfield Town;72;73;72;73
+PL_18_19;Bournemouth;79;76;77;77
+PL_18_19;Brighton & Hove Albion;76;77;76;76
+PL_19_20;Arsenal;84;82;78;80
+PL_19_20;Manchester United;83;81;81;81
+PL_19_20;Chelsea;80;84;81;81
+PL_19_20;Liverpool;87;83;85;85
+PL_19_20;Crystal Palace;73;77;76;77
+PL_19_20;Tottenham Hotspur;85;82;82;82
+PL_19_20;Manchester City;87;86;83;85
+PL_19_20;Newcastle United;75;78;77;77
+PL_19_20;Everton;80;78;79;78
+PL_19_20;Wolverhampton Wanderers;79;79;78;78
+PL_19_20;Burnley;77;76;76;76
+PL_19_20;West Ham United;82;78;73;78
+PL_19_20;Southampton;76;76;76;76
+PL_19_20;Leicester City;80;79;79;79
+PL_19_20;Aston Villa;77;75;75;76
+PL_19_20;Sheffield United;73;77;75;75
+PL_19_20;Watford;76;78;75;77
+PL_19_20;Norwich City;75;74;72;74
+PL_19_20;Bournemouth;78;76;76;76
+PL_19_20;Brighton & Hove Albion;75;76;76;76
+PL_20_21;Arsenal;83;79;79;80
+PL_20_21;Manchester United;83;82;82;82
+PL_20_21;Chelsea;82;84;82;82
+PL_20_21;Liverpool;86;83;80;85
+PL_20_21;Crystal Palace;77;75;75;76
+PL_20_21;Tottenham Hotspur;89;82;81;82
+PL_20_21;Manchester City;85;86;83;85
+PL_20_21;Newcastle United;77;75;74;76
+PL_20_21;Everton;81;79;80;79
+PL_20_21;Wolverhampton Wanderers;77;81;78;79
+PL_20_21;Burnley;75;76;77;76
+PL_20_21;West Ham United;79;79;77;78
+PL_20_21;Southampton;77;77;76;76
+PL_20_21;Leicester City;80;81;79;80
+PL_20_21;Aston Villa;77;77;77;77
+PL_20_21;Sheffield United;71;74;73;73
+PL_20_21;West Bromwich;74;74;72;73
+PL_20_21;Fulham;74;75;74;75
+PL_20_21;Leeds United;78;76;75;76
+PL_20_21;Brighton & Hove Albion;75;76;76;75
+PL_21_22;Arsenal;77;80;77;80
+PL_21_22;Manchester United;82;83;81;83
+PL_21_22;Chelsea;84;85;83;84
+PL_21_22;Liverpool;86;84;85;85
+PL_21_22;Crystal Palace;77;76;75;76
+PL_21_22;Tottenham Hotspur;83;81;78;81
+PL_21_22;Manchester City;84;87;86;85
+PL_21_22;Newcastle United;78;77;77;77
+PL_21_22;Everton;78;78;77;78
+PL_21_22;Wolverhampton Wanderers;78;80;78;78
+PL_21_22;Burnley;77;75;76;76
+PL_21_22;West Ham United;80;79;77;79
+PL_21_22;Southampton;75;76;76;76
+PL_21_22;Leicester City;80;80;78;80
+PL_21_22;Aston Villa;79;78;79;78
+PL_21_22;Brentford;74;75;74;74
+PL_21_22;Watford;74;75;74;74
+PL_21_22;Norwich City;75;73;73;73
+PL_21_22;Leeds United;77;77;75;76
+PL_21_22;Brighton & Hove Albion;75;73;77;76
+PL_22_23;Arsenal;81;83;80;81
+PL_22_23;Manchester United;82;83;81;82
+PL_22_23;Chelsea;83;79;83;83
+PL_22_23;Liverpool;84;82;84;84
+PL_22_23;Crystal Palace;77;76;76;76
+PL_22_23;Tottenham Hotspur;84;83;80;82
+PL_22_23;Manchester City;85;87;84;85
+PL_22_23;Newcastle United;79;78;79;79
+PL_22_23;Everton;78;77;76;77
+PL_22_23;Wolverhampton Wanderers;78;80;74;78
+PL_22_23;Bournemouth;72;73;73;74
+PL_22_23;West Ham United;79;80;78;79
+PL_22_23;Southampton;76;72;76;76
+PL_22_23;Leicester City;82;80;76;79
+PL_22_23;Aston Villa;78;79;79;79
+PL_22_23;Brentford;76;75;74;75
+PL_22_23;Nottingham Forest;75;76;77;77
+PL_22_23;Fulham;77;76;74;76
+PL_22_23;Leeds United;77;76;74;76
+PL_22_23;Brighton & Hove Albion;75;76;77;76
+PL_23_24;Arsenal;82;84;81;82
+PL_23_24;Manchester United;82;83;80;82
+PL_23_24;Chelsea;77;81;78;80
+PL_23_24;Liverpool;84;82;84;83
+PL_23_24;Crystal Palace;75;76;76;76
+PL_23_24;Tottenham Hotspur;81;80;79;81
+PL_23_24;Manchester City;87;86;83;85
+PL_23_24;Newcastle United;79;81;82;81
+PL_23_24;Everton;79;77;75;77
+PL_23_24;Wolverhampton Wanderers;75;77;76;76
+PL_23_24;Bournemouth;75;75;74;75
+PL_23_24;West Ham United;78;79;78;78
+PL_23_24;Burnley;69;74;73;74
+PL_23_24;Sheffield United;72;74;72;73
+PL_23_24;Aston Villa;82;79;79;80
+PL_23_24;Brentford;75;76;76;76
+PL_23_24;Nottingham Forest;75;77;75;77
+PL_23_24;Fulham;76;77;76;77
+PL_23_24;Luton Town;72;72;72;72
+PL_23_24;Brighton & Hove Albion;77;77;78;77
